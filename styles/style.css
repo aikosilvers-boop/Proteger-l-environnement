@@ -1,12 +1,6 @@
 body {
-  background-color: rgb(168, 91, 56);
+  background-color: rgb(49, 164, 97);
   display: flex;
-}
-.para1 {
-  color: aquamarine;
-}
-.para2 {
-  color: rgb(35, 158, 186);
 }
 
 h1 {
@@ -35,9 +29,9 @@ link {
 header,
 main,
 footer {
-  border: rgb(171, 150, 74) 5px solid;
+  border: rgb(47, 52, 130) 5px solid;
   border-radius: 4px;
-  background-color: burlywood;
+  background-color: rgb(104, 165, 181);
 }
 
 header,
@@ -47,8 +41,8 @@ header,
 }
 
 .nav4 {
-  border-top: rgb(171, 150, 74) 5px solid;
-  background-color: rgb(220, 195, 112);
+  border-top: rgb(47, 52, 130) 5px solid;
+  background-color: rgb(104, 165, 181);
   margin-top: 115px;
   height: 60px;
   max-width: 1300px;
@@ -69,7 +63,7 @@ header,
 }
 
 .navul a {
-  color: rgb(113, 101, 46);
+  color: rgb(18, 74, 77);
 }
 
 main {
@@ -103,7 +97,7 @@ footer li {
 }
 
 .mytabs {
-  background-color: rgb(220, 195, 112);
+  background-color: rgb(104, 165, 181);
   background-repeat: 1700px;
   display: flex;
 }
@@ -126,7 +120,7 @@ footer li {
 .nav4 .tab {
   padding: 10px;
   align-items: center;
-  background-color: burlywood;
+  background-color: rgb(104, 165, 181);
   order: 1;
   display: none;
 }
@@ -138,7 +132,7 @@ footer li {
   padding-left: 30px;
   height: 18px;
   text-align: center;
-  background-color: rgb(220, 195, 112);
+  background-color: rgb(104, 165, 181);
 }
 
 .block {
@@ -151,7 +145,7 @@ footer li {
 
 a:hover {
   font-style: oblique;
-  color: rgb(84, 75, 64);
+  color: rgb(46, 121, 74);
 }
 
 @import url(https://necolas.github.io/normalize.css/latest/normalize.css);
