@@ -7,7 +7,7 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   font-style: bold;
-  color: darkgreen;
+  color: rgb(100, 0, 0);
 }
 h2 {
   text-decoration: underline;
@@ -29,9 +29,9 @@ link {
 header,
 main,
 footer {
-  border: rgb(47, 52, 130) 5px solid;
+  border: rgb(130, 47, 47) 5px solid;
   border-radius: 4px;
-  background-color: rgb(104, 165, 181);
+  background-color: rgb(181, 104, 104);
 }
 
 header,
@@ -41,8 +41,8 @@ header,
 }
 
 .nav4 {
-  border-top: rgb(47, 52, 130) 5px solid;
-  background-color: rgb(104, 165, 181);
+  border-top: rgb(130, 47, 47) 5px solid;
+  background-color: rgb(181, 104, 104);
   margin-top: 115px;
   height: 60px;
   max-width: 1300px;
@@ -63,7 +63,7 @@ header,
 }
 
 .navul a {
-  color: rgb(18, 74, 77);
+  color: rgb(77, 18, 18);
 }
 
 main {
@@ -97,7 +97,7 @@ footer li {
 }
 
 .mytabs {
-  background-color: rgb(104, 165, 181);
+  background-color: rgb(181, 104, 104);
   background-repeat: 1700px;
   display: flex;
 }
@@ -111,7 +111,7 @@ footer li {
 
 .nav4 a {
   flex-grow: 1;
-  color: black;
+  color: rgb(100, 0, 0);
   font-size: 20px;
   font-style: bold;
   padding-top: 16px;
@@ -120,7 +120,7 @@ footer li {
 .nav4 .tab {
   padding: 10px;
   align-items: center;
-  background-color: rgb(104, 165, 181);
+  background-color: rgb(181, 104, 104);
   order: 1;
   display: none;
 }
@@ -132,7 +132,7 @@ footer li {
   padding-left: 30px;
   height: 18px;
   text-align: center;
-  background-color: rgb(104, 165, 181);
+  background-color: rgb(181, 104, 104);
 }
 
 .block {
@@ -145,7 +145,7 @@ footer li {
 
 a:hover {
   font-style: oblique;
-  color: rgb(46, 121, 74);
+  color: rgb(121, 46, 46);
 }
 
 @import url(https://necolas.github.io/normalize.css/latest/normalize.css);
