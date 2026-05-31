@@ -7,7 +7,7 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   font-style: bold;
-  color: darkgreen;
+  color: rgb(0, 32, 100);
 }
 h2 {
   text-decoration: underline;
@@ -145,7 +145,7 @@ footer li {
 
 a:hover {
   font-style: oblique;
-  color: rgb(46, 121, 74);
+  color: rgb(43, 102, 118);
 }
 
 @import url(https://necolas.github.io/normalize.css/latest/normalize.css);
