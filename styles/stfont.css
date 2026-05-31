@@ -1,5 +1,8 @@
 body {
   background-color: rgb(49, 164, 97);
+  background: #ffffff
+    url(https://media.discordapp.net/attachments/1178737119401877607/1510637418888429638/green_vibe__.jpg?ex=6a1d8a3a&is=6a1c38ba&hm=8f348c5348922c6ad03fea085e39c02f380c55ddb3782142f92abce8a80e1a9b&=&format=webp&width=1240&height=698)
+    center center/cover no-repeat;
   display: flex;
 }
 
@@ -111,7 +114,7 @@ footer li {
 
 .nav4 a {
   flex-grow: 1;
-  color: black;
+  color: rgb(0, 0, 100);
   font-size: 20px;
   font-style: bold;
   padding-top: 16px;
