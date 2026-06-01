@@ -16,6 +16,11 @@ h2 {
   text-decoration: underline;
   font-style: italic;
 }
+
+h4 {
+  text-decoration: underline;
+}
+
 link {
   text-align: center;
 }
@@ -74,6 +79,22 @@ main {
   grid-column: 2/3;
   height: max-content;
   padding: 15px;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2em;
+}
+
+.info {
+  flex: 1;
 }
 
 footer {
