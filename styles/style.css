@@ -151,10 +151,6 @@ a:hover {
   color: rgb(46, 121, 74);
 }
 
-p {
-  text-indent: 80px;
-}
-
 @import url(https://necolas.github.io/normalize.css/latest/normalize.css);
 
 header {
