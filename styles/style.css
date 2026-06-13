@@ -16,6 +16,14 @@ h2 {
   text-decoration: underline;
   font-style: italic;
 }
+h4 {
+  color: rgb(44, 113, 26);
+}
+
+.links ul li a {
+  color: rgb(50, 50, 139);
+}
+
 link {
   text-align: center;
 }
