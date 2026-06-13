@@ -16,6 +16,11 @@ h2 {
   text-decoration: underline;
   font-style: italic;
 }
+
+h3 {
+  color: rgb(126, 22, 126);
+}
+
 link {
   text-align: center;
 }
