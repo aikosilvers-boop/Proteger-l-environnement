@@ -1,8 +1,8 @@
 body {
   background-color: rgb(49, 164, 97);
-  background: #ffffff
-    url(https://cdn.discordapp.com/attachments/1178737119401877607/1516106431445864598/image.jpg?ex=6a316fa5&is=6a301e25&hm=eb00d910eb4cb9adf653b0c88d98e9dee4b4e7715434b28e9598738740b72d1f)
-    center center/cover no-repeat;
+  background: url(https://images-ext-1.discordapp.net/external/2w5AecLbKzRgM0Vt6QSxDxRn-xjeyfjAWdKF_fW1Qs8/https/res.cloudinary.com/dtz0urit6/image/upload/w_512%2Ce_upscale%2Cq_auto/cloudinary-tools-uploads/wiycelgq8erwic33vmlv.jpeg?format=webp&width=471&height=836)
+    center center/cover;
+  background-repeat: repeat-y;
   display: flex;
 }
 
