@@ -1,8 +1,7 @@
 body {
   background-color: rgb(49, 164, 97);
-  background: url(https://images-ext-1.discordapp.net/external/2w5AecLbKzRgM0Vt6QSxDxRn-xjeyfjAWdKF_fW1Qs8/https/res.cloudinary.com/dtz0urit6/image/upload/w_512%2Ce_upscale%2Cq_auto/cloudinary-tools-uploads/wiycelgq8erwic33vmlv.jpeg?format=webp&width=471&height=836)
-    center center/cover;
-  background-repeat: repeat-y;
+  background: href=("img/image.webp");
+  background-position: center center/cover;
   background-repeat: repeat-y;
   display: flex;
 }
